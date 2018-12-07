@@ -45,7 +45,7 @@
             <version>0.9.0</version>
         </dependency>
         <dependency>
-            <groupId>com.eureka.config</groupId>
+            <groupId>com.eureka</groupId>
             <artifactId>config</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
