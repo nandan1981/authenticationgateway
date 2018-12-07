@@ -11,6 +11,8 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 
 import javax.servlet.http.HttpServletResponse;
 
+import com.eureka.config.security.JwtConfig;
+
 @EnableWebSecurity
 public class AuthenticationGateway extends WebSecurityConfigurerAdapter {
 
